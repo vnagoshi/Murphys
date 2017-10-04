@@ -1,0 +1,21 @@
+.topmenu{
+  padding-bottom: 12px;
+}
+
+.background-image {
+  height: 500px;
+  background-image: url(http://murphyshawaii.com/media/2014/04/murphys-front.jpg);
+}
+
+.white-text {
+  color: white;
+  font-weight: bold;
+}
+
+.green-background {
+  background-color: #004030;
+}
+
+a {
+  color: black;
+}
