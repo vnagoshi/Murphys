@@ -1,4 +1,4 @@
-# murphys
+# Murphys
 
 Website Mockup for Murphys Bar & Grill
 
